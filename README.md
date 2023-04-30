@@ -1,76 +1,30 @@
-<!-- Header -->
-<div align="center">
-  <img src="header-background.jpg" width="100%" height="200px">
-  <h1>Hi, I'm [Your Name]!</h1>
-  <h3>Full-Stack Developer with knowledge of React, TypeScript, and Node</h3>
-  <img src="react-logo.svg" width="50px" height="50px">
-  <img src="typescript-logo.svg" width="50px" height="50px">
-  <img src="node-logo.svg" width="50px" height="50px">
-</div>
+<h1 align="center">Hi 👋, I'm Iman</h1>
+<h3 align="center">A passionate frontend developer from anywhere</h3>
 
-<!-- Chart -->
-<div align="center">
-  <canvas id="myChart"></canvas>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iman&label=Profile%20views&color=0e75b6&style=flat" alt="iman" /> </p>
 
-<!-- Introduction -->
-## Introduction
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iman" alt="iman" /></a> </p>
 
-I'm a full-stack developer with knowledge of React, TypeScript, and Node. I have experience building web applications using modern technologies and frameworks. I'm passionate about creating high-quality software that solves real-world problems.
+<p align="left"> <a href="https://twitter.com/iman" target="blank"><img src="https://img.shields.io/twitter/follow/iman?logo=twitter&style=for-the-badge" alt="iman" /></a> </p>
 
-<!-- Experience -->
-## Experience
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-- [Company Name](https://github.com/company-name) - Full-Stack Developer (2020 - Present)
-- [Company Name](https://github.com/company-name) - Front-End Developer (2018 - 2020)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/iman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="iman" height="30" width="40" /></a>
+<a href="https://twitter.com/iman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iman" height="30" width="40" /></a>
+<a href="https://medium.com/@iman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iman" height="30" width="40" /></a>
+<a href="/https://github.com/peticali/pythonblurbehind/issues/8#issuecomment-1068370693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://github.com/peticali/pythonblurbehind/issues/8#issuecomment-1068370693" height="30" width="40" /></a>
+</p>
 
-<!-- Projects -->
-## Projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-- [Project Name](https://github.com/project-name) - Description of the project.
-- [Project Name](https://github.com/project-name) - Description of the project.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iman&show_icons=true&locale=en&layout=compact" alt="iman" /></p>
 
-<!-- Education -->
-## Education
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iman&show_icons=true&locale=en" alt="iman" /></p>
 
-- Bachelor's Degree in Computer Science, [University Name](https://www.university-name.edu) (2014 - 2018)
-
-<!-- Footer -->
-<div align="center">
-  <img src="footer-background.jpg" width="100%" height="200px">
-  <p>Thanks for visiting my profile! Connect with me on <a href="https://www.linkedin.com/in/[Your LinkedIn Profile]">LinkedIn</a>.</p>
-</div>
-
-<!-- JavaScript -->
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script>
-  var ctx = document.getElementById('myChart').getContext('2d');
-  var myChart = new Chart(ctx, {
-    type: 'bar',
-    data: {
-      labels: ['React', 'TypeScript', 'Node'],
-      datasets: [{
-        label: 'Skill Level',
-        data: [90, 80, 70],
-        backgroundColor: [
-          'rgba(255, 99, 132, 0.2)',
-          'rgba(54, 162, 235, 0.2)',
-          'rgba(255, 206, 86, 0.2)'
-        ],
-        borderColor: [
-          'rgba(255, 99, 132, 1)',
-          'rgba(54, 162, 235, 1)',
-          'rgba(255, 206, 86, 1)'
-        ],
-        borderWidth: 1
-      }]
-    },
-    options: {
-      scales: {
-        y: {
-          beginAtZero: true
-        }
-      }
-    }
-  });
-</script>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iman&" alt="iman" /></p>
