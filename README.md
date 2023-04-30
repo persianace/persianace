@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
   <img src="header-background.jpg" width="100%" height="200px">
-  <h1>Hi, I'm [Your Name]!</h1>
+  <h1>Hi, I'm [Iman]!</h1>
   <h3>Full-Stack Developer with knowledge of React, TypeScript, and Node</h3>
   <img src="react-logo.svg" width="50px" height="50px">
   <img src="typescript-logo.svg" width="50px" height="50px">
