@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
   <img src="header-background.jpg" width="100%" height="200px">
-  <h1>Hi, I'm [Iman]!</h1>
+  <h1>Hi, I'm [Your Name]!</h1>
   <h3>Full-Stack Developer with knowledge of React, TypeScript, and Node</h3>
   <img src="react-logo.svg" width="50px" height="50px">
   <img src="typescript-logo.svg" width="50px" height="50px">
@@ -12,6 +12,28 @@
 <div align="center">
   <canvas id="myChart"></canvas>
 </div>
+
+<!-- Introduction -->
+## Introduction
+
+I'm a full-stack developer with knowledge of React, TypeScript, and Node. I have experience building web applications using modern technologies and frameworks. I'm passionate about creating high-quality software that solves real-world problems.
+
+<!-- Experience -->
+## Experience
+
+- [Company Name](https://github.com/company-name) - Full-Stack Developer (2020 - Present)
+- [Company Name](https://github.com/company-name) - Front-End Developer (2018 - 2020)
+
+<!-- Projects -->
+## Projects
+
+- [Project Name](https://github.com/project-name) - Description of the project.
+- [Project Name](https://github.com/project-name) - Description of the project.
+
+<!-- Education -->
+## Education
+
+- Bachelor's Degree in Computer Science, [University Name](https://www.university-name.edu) (2014 - 2018)
 
 <!-- Footer -->
 <div align="center">
